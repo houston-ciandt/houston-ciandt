@@ -1,12 +1,12 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Houston Armstrong</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=H0UST0N&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=houston-ciandt&color=blue" alt="Profile views" /> </p>
 
 - 🔥&nbsp;&nbsp;&nbsp;Project Manager & Full Stack Developer
 
 - 👨🏾‍💻&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working at [CI&T](https://ciandt.com)
 
-- 🗂&nbsp;&nbsp;&nbsp;All of my projects are available [here](https://github.com/H0UST0N?tab=repositories)
+- 🗂&nbsp;&nbsp;&nbsp;All of my projects are available [here](https://github.com/houston-ciandt?tab=repositories)
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
