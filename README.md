@@ -34,11 +34,3 @@
 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 <br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=houston-ciandt&show_icons=true&theme=github_dark" alt="houston-ciandt's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houston-ciandt&layout=compact&theme=github_dark" alt="houston-ciandt's most languages"/>
-</p>
-<br><br>
